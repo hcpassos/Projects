@@ -1,6 +1,5 @@
 ##importação de módulos
 import random
-import time
 import math
 
 ##início do programa e definição de funções
