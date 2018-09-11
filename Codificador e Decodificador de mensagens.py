@@ -2,7 +2,7 @@
 import random
 import math
 
-##início do programa e definição de funções
+##Definição de variáveis e funções
 input('\nEste programa irá codificar uma mensagem curta e poderá ser usado para decofica-la mediante inserção de uma chave de acesso.\nPara começar, pressione Enter.')
 var = float()
 chave = float()
